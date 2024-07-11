@@ -1,0 +1,2 @@
+Example Visualizations
+The generated visualizations will be saved as global_temperatures_over_time.png, average_temperatures_heatmap.png, and temperature_distribution.png in the project root.
