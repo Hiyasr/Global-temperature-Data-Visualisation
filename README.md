@@ -10,12 +10,6 @@ This project demonstrates how to load, clean, and visualize global temperature d
 - [Usage](#usage)
 - [Example Visualizations](#example-visualizations)
 - [Data Source](#data-source)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Introduction
-
-Climate change is one of the most pressing issues facing the world today. Understanding how global temperatures have changed over time is crucial for addressing climate-related challenges. This project aims to visualize global temperature data to reveal trends and patterns that can inform decision-making and raise awareness.
-
-## Project Structure
+Climate change is one of the most pressing issues facing the world today. Understanding how global temperatures have changed over time is crucial for addressing climate-related challenges. This project aims to visualize global temperature data to reveal trends and patterns that can inform decision-making and raise awareness
 
