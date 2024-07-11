@@ -1,0 +1,12 @@
+global-temperature-visualization/
+│
+├── data/
+│   └── global_temperatures.csv  # Add your dataset here
+│
+├── src/
+│   ├── data_loading.py
+│   ├── data_cleaning.py
+│   ├── data_visualization.py
+│   └── main.py
+│
+└── README.md
